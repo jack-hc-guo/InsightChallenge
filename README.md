@@ -14,4 +14,4 @@ python find_political_donors.py -i INPUT_FILE -oz OUTPUT_FILE_FOR_ZIP -od OUTPUT
 
 Input Data
 ------------------
-Data is taken from FEC website for 2017-2018 year and follows INDIV Data Dictionary. 
+Test data is taken from FEC website for 2017-2018 year and follows INDIV Data Dictionary. It was, however, too large to upload onto Git.  
